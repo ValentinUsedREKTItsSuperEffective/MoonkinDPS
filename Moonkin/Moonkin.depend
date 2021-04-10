@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618072179 source:c:\users\valentin\documents\moonkindps\moonkin\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
